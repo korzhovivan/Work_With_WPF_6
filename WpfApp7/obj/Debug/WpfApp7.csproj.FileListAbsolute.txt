@@ -1,0 +1,14 @@
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+c:\users\mak\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
